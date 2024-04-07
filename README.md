@@ -1,6 +1,6 @@
 # jeu_des_triangles
 
-[ [English](README.md) | [Français](README.fr.md) | ]
+[ [English](README.md) | [Français](README.fr.md)  ]
 
 This game can be played in 1vs1 mode or with some bots
 
