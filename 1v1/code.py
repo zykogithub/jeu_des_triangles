@@ -1,8 +1,8 @@
 import pyxel
 
 class Penta :
-    def __init__(self,cote) -> None:
-        self.cote=cote
+    def __init__(self,cote : int) -> None:
+        self.cote : int =cote
 class Rect (Penta) :
     def __init__(self) -> None:
         super.__init__(4)
